@@ -10,7 +10,7 @@
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/mmalolepszy/hon-revived/issues",
   "requirements": [
-    "pyhOn@https://github.com/Lu-Fi/pyhOn/archive/refs/tags/v0.19.4.tar.gz"
+    "pyhOn@https://github.com/Lu-Fi/pyhOn/archive/refs/tags/v0.19.5.tar.gz"
   ],
-  "version": "0.19.4"
+  "version": "0.19.5"
 }
