@@ -211,7 +211,7 @@ class HonACClimateEntity(HonEntity, ClimateEntity):
 
         mode = HON_HVAC_MODE[mach]
 
-        attr_hvac_mode = getattr(self, "_attr_hvac_mode", None)
+        attr_hvac_mode: HVACMode | None = getattr(self, "_attr_hvac_mode", None)
         if (
             mode == HVACMode.AUTO
             and attr_hvac_mode is not None
