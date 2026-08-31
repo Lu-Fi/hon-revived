@@ -1,1 +1,1 @@
-pyhon-revived==0.19.1
+pyhon-revived@https://github.com/Lu-Fi/pyhOn/archive/refs/tags/v0.20.3.tar.gz
